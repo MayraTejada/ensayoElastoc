@@ -2,7 +2,7 @@
 # # import os
 # from flask_migrate import Migrate, MigrateCommand
 
-# from models import db
+from models import db
 # from app import app
 
 # #app.config.from_object("config.DevelopmentConfig")
